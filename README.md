@@ -17,8 +17,8 @@ This is Nazrul Islam. I am a Front-end Web developer who is passionate about mak
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nazrul55)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul55)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazrul55&show_icons=true&count_private=true)  
 
