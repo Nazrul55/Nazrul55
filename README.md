@@ -17,13 +17,13 @@ Skills:  HTML / CSS /Bootstrap/JavaScript
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Nazrul55)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Nazrul55)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Nazrul55&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Nazrul55)  
+ 
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Nazrul55)  
+
+
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Nazrul55)  
 
