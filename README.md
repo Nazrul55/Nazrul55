@@ -1,7 +1,7 @@
 # Hi there 👋, I am Nazrul Islam
 ## Fornt-End Web  Developer
 
-https://github.com/Nazrul55/Nazrul55/blob/main/Nazrul%20Islam.png
+
 
 ### This is Nazrul Islam. I am a Front-End Web developer who is passionate about making error-free, aesthetically appealing web pages. I have a passion for web standards, and building fast and responsive websites. I also specialize in HTML5, CSS, Bootstrap and JavaScript frameworks to create compelling websites.
 <h3 align="left">Languages and Tools:</h3>
