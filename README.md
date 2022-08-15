@@ -1,7 +1,7 @@
 # Hi there 👋, I am Nazrul Islam
 ## Fornt-End Web  Developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazrull55) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazrul55)  
 
 ### This is Nazrul Islam. I am a Front-End Web developer who is passionate about making error-free, aesthetically appealing web pages. I have a passion for web standards, and building fast and responsive websites. I also specialize in HTML5, CSS, Bootstrap and JavaScript frameworks to create compelling websites.
 <h3 align="left">Languages and Tools:</h3>
