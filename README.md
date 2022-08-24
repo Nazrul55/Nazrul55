@@ -25,7 +25,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazrulislam45&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nazrulislam45)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= Nazrulislam45)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Nazrulislam45)  
 
