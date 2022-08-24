@@ -30,6 +30,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nazrulislam45&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+![GitHub metrics](https://metrics.lecoq.io/Nazrulislam45) 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
